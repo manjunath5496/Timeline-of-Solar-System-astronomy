@@ -1,3 +1,6 @@
+<h2>Timeline of Solar System astronomy </h2>
+
+
 <ul>
 <li>2nd millennium BC &ndash; earliest possible date for the composition of the Babylonian&nbsp;<a title="Venus tablet of Ammisaduqa" href="https://en.wikipedia.org/wiki/Venus_tablet_of_Ammisaduqa">Venus tablet of Ammisaduqa</a>, a 7th-century BC copy of a list of observations of the motions of the planet&nbsp;<a title="Venus" href="https://en.wikipedia.org/wiki/Venus">Venus</a>, and the oldest planetary table currently known.</li>
 <li>2nd millennium BC &ndash;&nbsp;<a title="Babylonian astronomy" href="https://en.wikipedia.org/wiki/Babylonian_astronomy">Babylonian astronomers</a>&nbsp;identify the inner planets&nbsp;<a title="Mercury (planet)" href="https://en.wikipedia.org/wiki/Mercury_(planet)">Mercury</a>&nbsp;and Venus and the outer planets&nbsp;<a title="Mars" href="https://en.wikipedia.org/wiki/Mars">Mars</a>,&nbsp;<a title="Jupiter" href="https://en.wikipedia.org/wiki/Jupiter">Jupiter</a>&nbsp;and&nbsp;<a title="Saturn" href="https://en.wikipedia.org/wiki/Saturn">Saturn</a>, which would remain the only known planets until the invention of the&nbsp;<a title="Telescope" href="https://en.wikipedia.org/wiki/Telescope">telescope</a>&nbsp;in early modern times.</li>
@@ -17,8 +20,7 @@
 <li>87 BC &mdash; The&nbsp;<a title="Antikythera mechanism" href="https://en.wikipedia.org/wiki/Antikythera_mechanism">Antikythera mechanism</a>, the earliest known computer, is built. It is designed to predict the movements of the Planets.</li>
 <li>28 BC &ndash; Chinese history book&nbsp;<a title="Book of Han" href="https://en.wikipedia.org/wiki/Book_of_Han">Book of Han</a>&nbsp;makes earliest known dated record of&nbsp;<a title="Sunspot" href="https://en.wikipedia.org/wiki/Sunspot">sunspot</a>.</li>
 <li>c. 150 CE &ndash;&nbsp;<a class="mw-redirect" title="Claudius Ptolemy" href="https://en.wikipedia.org/wiki/Claudius_Ptolemy">Claudius Ptolemy</a>&nbsp;completes his&nbsp;<a title="Almagest" href="https://en.wikipedia.org/wiki/Almagest">Almagest</a>&nbsp;that codifies the astronomical knowledge of his time and cements the geocentric model in the West</li>
-</ul>
-<ul>
+
 <li>499 &ndash; The&nbsp;<a title="Indian astronomy" href="https://en.wikipedia.org/wiki/Indian_astronomy">Indian astronomer</a>-<a title="Indian mathematics" href="https://en.wikipedia.org/wiki/Indian_mathematics">mathematician</a>,&nbsp;<a title="Aryabhata" href="https://en.wikipedia.org/wiki/Aryabhata">Aryabhata</a>, in his&nbsp;<em><a title="Aryabhatiya" href="https://en.wikipedia.org/wiki/Aryabhatiya">Aryabhatiya</a></em>, propounds a possibly heliocentric solar system of&nbsp;<a class="mw-redirect" title="Gravitation" href="https://en.wikipedia.org/wiki/Gravitation">gravitation</a>, and an&nbsp;<a title="Eccentricity (mathematics)" href="https://en.wikipedia.org/wiki/Eccentricity_(mathematics)">eccentric</a>&nbsp;<a class="mw-redirect" title="Epicycle" href="https://en.wikipedia.org/wiki/Epicycle">epicyclic</a>&nbsp;model of the planets, where the planets follow&nbsp;<a title="Ellipse" href="https://en.wikipedia.org/wiki/Ellipse">elliptical</a>&nbsp;orbits around the Sun, and the Moon and planets shine by reflected sunlight</li>
 <li>500 &ndash; Aryabhata accurately computes the Earth's&nbsp;<a title="Circumference" href="https://en.wikipedia.org/wiki/Circumference">circumference</a>, the solar and lunar eclipses, and the length of Earth's revolution around the Sun</li>
 <li>620s &ndash; Indian mathematician-astronomer&nbsp;<a title="Brahmagupta" href="https://en.wikipedia.org/wiki/Brahmagupta">Brahmagupta</a>&nbsp;recognizes gravity as a force of attraction, and briefly describes a law of gravitation</li>
@@ -42,8 +44,7 @@
 <li>1543 &ndash; Copernicus publishes his heliocentric theory in&nbsp;<em><a title="De revolutionibus orbium coelestium" href="https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium">De revolutionibus orbium coelestium</a></em></li>
 <li>c. 1570 &ndash;&nbsp;<a title="Tycho Brahe" href="https://en.wikipedia.org/wiki/Tycho_Brahe">Tycho Brahe</a>&nbsp;founds the first modern astronomical observatory.</li>
 <li>1577 &ndash;&nbsp;<a title="Tycho Brahe" href="https://en.wikipedia.org/wiki/Tycho_Brahe">Tycho Brahe</a>&nbsp;uses parallax to prove that&nbsp;<a title="Comet" href="https://en.wikipedia.org/wiki/Comet">comets</a>&nbsp;are distant entities and not atmospheric phenomena.</li>
-</ul>
-<ul>
+
 <li>1609 &ndash;&nbsp;<a title="Johannes Kepler" href="https://en.wikipedia.org/wiki/Johannes_Kepler">Johannes Kepler</a>&nbsp;states his first two empirical laws of planetary motion, stating that the orbits of the planets are elliptical rather than circular, and thus resolving many ancient problems with planetary models.</li>
 <li>1610 &ndash;&nbsp;<a title="Galileo Galilei" href="https://en.wikipedia.org/wiki/Galileo_Galilei">Galileo Galilei</a>&nbsp;discovers&nbsp;<a title="Callisto (moon)" href="https://en.wikipedia.org/wiki/Callisto_(moon)">Callisto</a>,&nbsp;<a title="Europa (moon)" href="https://en.wikipedia.org/wiki/Europa_(moon)">Europa</a>,&nbsp;<a title="Ganymede (moon)" href="https://en.wikipedia.org/wiki/Ganymede_(moon)">Ganymede</a>, and&nbsp;<a title="Io (moon)" href="https://en.wikipedia.org/wiki/Io_(moon)">Io</a>, sees&nbsp;<a title="Saturn" href="https://en.wikipedia.org/wiki/Saturn">Saturn</a>'s&nbsp;<a class="mw-redirect" title="Planetary ring" href="https://en.wikipedia.org/wiki/Planetary_ring">planetary rings</a>&nbsp;(but does not recognize that they are rings), and observes the&nbsp;<a title="Phases of Venus" href="https://en.wikipedia.org/wiki/Phases_of_Venus">phases of Venus</a>, disproving the Ptolemaic system, though not the&nbsp;<a title="Geocentric model" href="https://en.wikipedia.org/wiki/Geocentric_model">geocentric model</a></li>
 <li>1619 &ndash; Johannes Kepler states his third empirical law of planetary motion</li>
@@ -54,8 +55,7 @@
 <li>1672 &ndash;&nbsp;<a title="Jean Richer" href="https://en.wikipedia.org/wiki/Jean_Richer">Jean Richer</a>&nbsp;and Cassini measure the&nbsp;<a title="Astronomical unit" href="https://en.wikipedia.org/wiki/Astronomical_unit">astronomical unit</a>&nbsp;to be about 138,370,000&nbsp;km</li>
 <li>1675 &ndash;&nbsp;<a title="Ole R&oslash;mer" href="https://en.wikipedia.org/wiki/Ole_R%C3%B8mer">Ole R&oslash;mer</a>&nbsp;uses the orbital mechanics of Jupiter's&nbsp;<a title="Natural satellite" href="https://en.wikipedia.org/wiki/Natural_satellite">moons</a>&nbsp;to estimate that the&nbsp;<a title="Speed of light" href="https://en.wikipedia.org/wiki/Speed_of_light">speed of light</a>&nbsp;is about 227,000&nbsp;km/s</li>
 <li>1686 &ndash; Cassini discovers&nbsp;<a title="Tethys (moon)" href="https://en.wikipedia.org/wiki/Tethys_(moon)">Tethys</a>&nbsp;and&nbsp;<a title="Dione (moon)" href="https://en.wikipedia.org/wiki/Dione_(moon)">Dione</a></li>
-</ul>
-<ul>
+
 <li>1705 &ndash;&nbsp;<a title="Edmond Halley" href="https://en.wikipedia.org/wiki/Edmond_Halley">Edmond Halley</a>&nbsp;publicly predicts the periodicity of&nbsp;<a title="Halley's Comet" href="https://en.wikipedia.org/wiki/Halley%27s_Comet">Halley's Comet</a>&nbsp;and computes its expected path of return in 1757</li>
 <li>1715 &ndash; Edmond Halley calculates the shadow path of a solar eclipse</li>
 <li>1716 &ndash; Edmond Halley suggests a high-precision measurement of the Sun-Earth distance by timing the&nbsp;<a title="Transit of Venus" href="https://en.wikipedia.org/wiki/Transit_of_Venus">transit of Venus</a></li>
@@ -70,16 +70,13 @@
 <li>1787 &ndash; Herschel discovers Uranus's moons&nbsp;<a title="Titania (moon)" href="https://en.wikipedia.org/wiki/Titania_(moon)">Titania</a>&nbsp;and&nbsp;<a title="Oberon (moon)" href="https://en.wikipedia.org/wiki/Oberon_(moon)">Oberon</a></li>
 <li>1789 &ndash; Herschel discovers Saturn's moons&nbsp;<a class="mw-redirect" title="Enceladus (moon)" href="https://en.wikipedia.org/wiki/Enceladus_(moon)">Enceladus</a>&nbsp;and&nbsp;<a title="Mimas (moon)" href="https://en.wikipedia.org/wiki/Mimas_(moon)">Mimas</a></li>
 <li>1796 &ndash;&nbsp;<a class="mw-redirect" title="Pierre Laplace" href="https://en.wikipedia.org/wiki/Pierre_Laplace">Pierre Laplace</a>&nbsp;re-states the nebular hypothesis for the formation of the Solar System from a spinning&nbsp;<a title="Nebula" href="https://en.wikipedia.org/wiki/Nebula">nebula</a>&nbsp;of gas and dust</li>
-</ul>
-<ul>
+
 <li>1801 &ndash;&nbsp;<a title="Giuseppe Piazzi" href="https://en.wikipedia.org/wiki/Giuseppe_Piazzi">Giuseppe Piazzi</a>&nbsp;discovers the&nbsp;<a title="Dwarf planet" href="https://en.wikipedia.org/wiki/Dwarf_planet">dwarf planet</a>&ndash;<a title="Asteroid" href="https://en.wikipedia.org/wiki/Asteroid">asteroid</a>&nbsp;<a title="Ceres (dwarf planet)" href="https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)">Ceres</a></li>
 <li>1802 &ndash;&nbsp;<a class="mw-redirect" title="Heinrich Wilhelm Olbers" href="https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Olbers">Heinrich Wilhelm Olbers</a>&nbsp;discovers the asteroid&nbsp;<a title="2 Pallas" href="https://en.wikipedia.org/wiki/2_Pallas">Pallas</a></li>
 <li>1821 &ndash;&nbsp;<a title="Alexis Bouvard" href="https://en.wikipedia.org/wiki/Alexis_Bouvard">Alexis Bouvard</a>&nbsp;detects irregularities in the&nbsp;<a title="Orbit" href="https://en.wikipedia.org/wiki/Orbit">orbit</a>&nbsp;of Uranus</li>
 <li>1825 &ndash; Pierre Laplace completes his study of&nbsp;<a class="mw-redirect" title="Gravitation" href="https://en.wikipedia.org/wiki/Gravitation">gravitation</a>, the&nbsp;<a title="Stability of the Solar System" href="https://en.wikipedia.org/wiki/Stability_of_the_Solar_System">stability of the Solar System</a>, tides, the precession of the equinoxes, the&nbsp;<a title="Libration" href="https://en.wikipedia.org/wiki/Libration">libration</a>&nbsp;of the Moon, and Saturn's rings in&nbsp;<em><a class="new" title="M&eacute;canique C&eacute;leste (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=M%C3%A9canique_C%C3%A9leste&amp;action=edit&amp;redlink=1">M&eacute;canique C&eacute;leste</a></em></li>
 <li>1838 &ndash;&nbsp;<a class="mw-redirect" title="Friedrich Wilhelm Bessel" href="https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Bessel">Friedrich Wilhelm Bessel</a>&nbsp;measures the&nbsp;<a title="Parallax" href="https://en.wikipedia.org/wiki/Parallax">parallax</a>&nbsp;of the star&nbsp;<a title="61 Cygni" href="https://en.wikipedia.org/wiki/61_Cygni">61 Cygni</a>, refuting one of the oldest arguments against&nbsp;<a title="Heliocentrism" href="https://en.wikipedia.org/wiki/Heliocentrism">heliocentrism</a>.</li>
-</ul>
-<div class="thumb tright">&nbsp;</div>
-<ul>
+
 <li>1840 &mdash;&nbsp;<a class="mw-redirect" title="John W. Draper" href="https://en.wikipedia.org/wiki/John_W._Draper">John W. Draper</a>&nbsp;takes a&nbsp;<a title="Daguerreotype" href="https://en.wikipedia.org/wiki/Daguerreotype">daguerreotype</a>&nbsp;of the Moon, the first astronomical photograph.</li>
 <li>1843 &ndash;&nbsp;<a title="John Couch Adams" href="https://en.wikipedia.org/wiki/John_Couch_Adams">John Adams</a>&nbsp;predicts the existence and location of&nbsp;<a title="Neptune" href="https://en.wikipedia.org/wiki/Neptune">Neptune</a>&nbsp;from irregularities in the orbit of Uranus</li>
 <li>1846 &ndash;&nbsp;<a title="Urbain Le Verrier" href="https://en.wikipedia.org/wiki/Urbain_Le_Verrier">Urbain Le Verrier</a>&nbsp;predicts the existence and location of Neptune from irregularities in the orbit of Uranus</li>
@@ -94,15 +91,12 @@
 <li>1877 &ndash;&nbsp;<a title="Asaph Hall" href="https://en.wikipedia.org/wiki/Asaph_Hall">Asaph Hall</a>&nbsp;discovers Mars's moons&nbsp;<a title="Deimos (moon)" href="https://en.wikipedia.org/wiki/Deimos_(moon)">Deimos</a>&nbsp;and&nbsp;<a title="Phobos (moon)" href="https://en.wikipedia.org/wiki/Phobos_(moon)">Phobos</a></li>
 <li>1892 &ndash;&nbsp;<a title="Edward Emerson Barnard" href="https://en.wikipedia.org/wiki/Edward_Emerson_Barnard">Edward Emerson Barnard</a>&nbsp;discovers Jupiter's moon&nbsp;<a title="Amalthea (moon)" href="https://en.wikipedia.org/wiki/Amalthea_(moon)">Amalthea</a></li>
 <li>1899 &ndash;&nbsp;<a title="William Henry Pickering" href="https://en.wikipedia.org/wiki/William_Henry_Pickering">William Henry Pickering</a>&nbsp;discovers Saturn's moon&nbsp;<a title="Phoebe (moon)" href="https://en.wikipedia.org/wiki/Phoebe_(moon)">Phoebe</a></li>
-</ul>
-<ul>
+
 <li>1906 &ndash;&nbsp;<a title="Max Wolf" href="https://en.wikipedia.org/wiki/Max_Wolf">Max Wolf</a>&nbsp;discovers the&nbsp;<a class="mw-redirect" title="Trojan asteroid" href="https://en.wikipedia.org/wiki/Trojan_asteroid">Trojan asteroid</a>&nbsp;<a title="588 Achilles" href="https://en.wikipedia.org/wiki/588_Achilles">Achilles</a></li>
 <li>1915 &ndash;&nbsp;<a title="Robert T. A. Innes" href="https://en.wikipedia.org/wiki/Robert_T._A._Innes">Robert Innes</a>&nbsp;discovers&nbsp;<a title="Proxima Centauri" href="https://en.wikipedia.org/wiki/Proxima_Centauri">Proxima Centauri</a>, the closest star to Earth after the Sun</li>
 <li>1919 &ndash;&nbsp;<a class="mw-redirect" title="Arthur Stanley Eddington" href="https://en.wikipedia.org/wiki/Arthur_Stanley_Eddington">Arthur Stanley Eddington</a>&nbsp;uses a solar eclipse to successfully test&nbsp;<a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>'s&nbsp;<a class="mw-redirect" title="General Theory of Relativity" href="https://en.wikipedia.org/wiki/General_Theory_of_Relativity">General Theory of Relativity</a></li>
 <li>1930 &ndash;&nbsp;<a title="Clyde Tombaugh" href="https://en.wikipedia.org/wiki/Clyde_Tombaugh">Clyde Tombaugh</a>&nbsp;discovers&nbsp;<a title="Pluto" href="https://en.wikipedia.org/wiki/Pluto">Pluto</a></li>
-</ul>
-<div class="thumb tright">&nbsp;</div>
-<ul>
+
 <li>1930 &ndash;&nbsp;<a class="mw-redirect" title="Seth Nicholson" href="https://en.wikipedia.org/wiki/Seth_Nicholson">Seth Nicholson</a>&nbsp;measures the surface temperature of the Moon</li>
 <li>1935 &mdash; The&nbsp;<a title="Explorer II" href="https://en.wikipedia.org/wiki/Explorer_II">Explorer II</a>&nbsp;balloon reached a record altitude of 22,066 m (72,395 ft), enabling its occupants to photograph the curvature of the Earth for the first time.</li>
 <li>1944 &ndash;&nbsp;<a title="Gerard Kuiper" href="https://en.wikipedia.org/wiki/Gerard_Kuiper">Gerard Kuiper</a>&nbsp;discovers that the satellite&nbsp;<a title="Titan (moon)" href="https://en.wikipedia.org/wiki/Titan_(moon)">Titan</a>&nbsp;has a substantial atmosphere</li>
@@ -110,16 +104,13 @@
 <li>1949 &ndash;&nbsp;<a title="Gerard Kuiper" href="https://en.wikipedia.org/wiki/Gerard_Kuiper">Gerard Kuiper</a>&nbsp;discovers Uranus's moon&nbsp;<a title="Miranda (moon)" href="https://en.wikipedia.org/wiki/Miranda_(moon)">Miranda</a>&nbsp;and Neptune's moon&nbsp;<a title="Nereid (moon)" href="https://en.wikipedia.org/wiki/Nereid_(moon)">Nereid</a></li>
 <li>1950 &ndash;&nbsp;<a title="Jan Oort" href="https://en.wikipedia.org/wiki/Jan_Oort">Jan Oort</a>&nbsp;suggests the presence of a cometary&nbsp;<a title="Oort cloud" href="https://en.wikipedia.org/wiki/Oort_cloud">Oort cloud</a></li>
 <li>1951 &ndash; Kuiper argues for an annular reservoir of comets between 40-100 astronomical units from the Sun, the&nbsp;<a title="Kuiper belt" href="https://en.wikipedia.org/wiki/Kuiper_belt">Kuiper belt</a></li>
-</ul>
-<ul>
+
 <li>1959 &mdash;&nbsp;<a title="Explorer 6" href="https://en.wikipedia.org/wiki/Explorer_6">Explorer 6</a>&nbsp;sends the first image of the entire earth from Space.</li>
 <li>1959 &ndash;&nbsp;<a title="Luna 3" href="https://en.wikipedia.org/wiki/Luna_3">Luna 3</a>&nbsp;sends the first images of another celestial body, the&nbsp;<a title="Moon" href="https://en.wikipedia.org/wiki/Moon">Moon</a>, from space, including its unseen far side.</li>
 <li>1962 &ndash; The&nbsp;<a title="Mariner 2" href="https://en.wikipedia.org/wiki/Mariner_2">Mariner 2</a>&nbsp;<a title="Venus" href="https://en.wikipedia.org/wiki/Venus">Venus</a>&nbsp;flyby performs the first closeup observations of another planet</li>
 <li>1964 &ndash; The&nbsp;<a title="Mariner 4" href="https://en.wikipedia.org/wiki/Mariner_4">Mariner 4</a>&nbsp;spacecraft provides the first detailed images of the surface of&nbsp;<a title="Mars" href="https://en.wikipedia.org/wiki/Mars">Mars</a></li>
 <li>1966 &ndash; The&nbsp;<a title="Luna 9" href="https://en.wikipedia.org/wiki/Luna_9">Luna 9</a>&nbsp;<a title="Moon" href="https://en.wikipedia.org/wiki/Moon">Moon</a>&nbsp;lander provides the first images from the surface of another celestial body</li>
-</ul>
-<div class="thumb tright">&nbsp;</div>
-<ul>
+
 <li>1967 &ndash;&nbsp;<a title="Venera 4" href="https://en.wikipedia.org/wiki/Venera_4">Venera 4</a>&nbsp;provides the first information on Venus's atmosphere</li>
 <li>1968 &ndash; The&nbsp;<a title="Apollo 8" href="https://en.wikipedia.org/wiki/Apollo_8">Apollo 8</a>&nbsp;becomes the first manned lunar mission, providing historic images of the whole Earth.</li>
 <li>1970 &ndash; The&nbsp;<a title="Venera 7" href="https://en.wikipedia.org/wiki/Venera_7">Venera 7</a>&nbsp;<a title="Venus" href="https://en.wikipedia.org/wiki/Venus">Venus</a>&nbsp;lander sends back the first information ever successfully obtained from the surface of another planet</li>
@@ -130,8 +121,7 @@
 <li>1973 &mdash;&nbsp;<a title="Mariner 10" href="https://en.wikipedia.org/wiki/Mariner_10">Mariner 10</a>&nbsp;provides the first closeup images of the clouds of Venus.</li>
 <li>1974 &ndash;&nbsp;<a title="Mariner 10" href="https://en.wikipedia.org/wiki/Mariner_10">Mariner 10</a>&nbsp;provides the first closeup images of the surface of Mercury.</li>
 <li>1975 &ndash;&nbsp;<a title="Venera 9" href="https://en.wikipedia.org/wiki/Venera_9">Venera 9</a>&nbsp;becomes the first probe to successfully transmit images from the surface of Venus.</li>
-</ul>
-<ul>
+
 <li>1977 &ndash;&nbsp;<a title="James L. Elliot" href="https://en.wikipedia.org/wiki/James_L._Elliot">James Elliot</a>&nbsp;discovers the rings of Uranus during a stellar occultation experiment on the&nbsp;<a title="Kuiper Airborne Observatory" href="https://en.wikipedia.org/wiki/Kuiper_Airborne_Observatory">Kuiper Airborne Observatory</a></li>
 <li>1977 &ndash;&nbsp;<a class="mw-redirect" title="Charles Kowal" href="https://en.wikipedia.org/wiki/Charles_Kowal">Charles Kowal</a>&nbsp;discovers&nbsp;<a title="2060 Chiron" href="https://en.wikipedia.org/wiki/2060_Chiron">2060 Chiron</a>, the first&nbsp;<a class="mw-redirect" title="Centaur (minor planet)" href="https://en.wikipedia.org/wiki/Centaur_(minor_planet)">Centaur</a></li>
 <li>1978 &ndash;&nbsp;<a class="mw-redirect" title="James Christy" href="https://en.wikipedia.org/wiki/James_Christy">James Christy</a>&nbsp;discovers&nbsp;<a title="Charon (moon)" href="https://en.wikipedia.org/wiki/Charon_(moon)">Charon</a>, the large moon of Pluto.</li>
@@ -155,16 +145,13 @@
 <li>1995 &ndash; The first planet around a Sun-like star is discovered, in orbit around the star&nbsp;<a title="51 Pegasi" href="https://en.wikipedia.org/wiki/51_Pegasi">51 Pegasi</a>.</li>
 <li>1995 &ndash; The&nbsp;<a class="mw-redirect" title="Galileo spacecraft" href="https://en.wikipedia.org/wiki/Galileo_spacecraft">Galileo spacecraft</a>&nbsp;becomes the first to orbit Jupiter. Its atmospheric entry probe provides the first data taken within the planet itself.</li>
 <li>2000 &ndash;&nbsp;<a title="NEAR Shoemaker" href="https://en.wikipedia.org/wiki/NEAR_Shoemaker">NEAR Shoemaker</a>&nbsp;provides the first detailed images of a&nbsp;<a class="mw-redirect" title="Near-Earth asteroid" href="https://en.wikipedia.org/wiki/Near-Earth_asteroid">near-Earth asteroid</a>.</li>
-</ul>
-<ul>
+
 <li>2003 &ndash;&nbsp;<a title="90377 Sedna" href="https://en.wikipedia.org/wiki/90377_Sedna">Sedna</a>, a large object with an unprecedented 12,000-year orbit, is discovered by&nbsp;<a title="Michael E. Brown" href="https://en.wikipedia.org/wiki/Michael_E._Brown">Michael E. Brown</a>,&nbsp;<a title="Chad Trujillo" href="https://en.wikipedia.org/wiki/Chad_Trujillo">Chad Trujillo</a>, and&nbsp;<a title="David L. Rabinowitz" href="https://en.wikipedia.org/wiki/David_L._Rabinowitz">David L. Rabinowitz</a>.</li>
 <li>2004 &ndash;&nbsp;<a title="Voyager 1" href="https://en.wikipedia.org/wiki/Voyager_1">Voyager 1</a>&nbsp;sends back the first data ever obtained from within the Solar System's&nbsp;<a class="mw-redirect" title="Heliosheath" href="https://en.wikipedia.org/wiki/Heliosheath">heliosheath</a>.</li>
 <li>2004 &ndash; The&nbsp;<em><a title="Cassini&ndash;Huygens" href="https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens">Cassini&ndash;Huygens</a></em>&nbsp;spacecraft becomes the first to orbit Saturn. It discovers complex motions in the rings, several new small moons and&nbsp;<a class="mw-redirect" title="Cryovolcanism" href="https://en.wikipedia.org/wiki/Cryovolcanism">cryovolcanism</a>&nbsp;on the moon&nbsp;<a class="mw-redirect" title="Enceladus (moon)" href="https://en.wikipedia.org/wiki/Enceladus_(moon)">Enceladus</a>&nbsp;and provides the first images from the surface of&nbsp;<a title="Titan (moon)" href="https://en.wikipedia.org/wiki/Titan_(moon)">Titan</a>.</li>
 <li>2005 &ndash;&nbsp;<a title="Michael E. Brown" href="https://en.wikipedia.org/wiki/Michael_E._Brown">Michael E. Brown</a>&nbsp;<em>et al.</em>&nbsp;discover&nbsp;<a title="Eris (dwarf planet)" href="https://en.wikipedia.org/wiki/Eris_(dwarf_planet)">Eris</a>, a&nbsp;<a title="Trans-Neptunian object" href="https://en.wikipedia.org/wiki/Trans-Neptunian_object">trans-Neptunian object</a>&nbsp;more massive than&nbsp;<a title="Pluto" href="https://en.wikipedia.org/wiki/Pluto">Pluto</a>, and later also its moon,&nbsp;<a title="Dysnomia (moon)" href="https://en.wikipedia.org/wiki/Dysnomia_(moon)">Dysnomia</a>. Eris was first imaged in 2003, and is the most massive object discovered in the Solar System since Neptune's moon Triton in 1846.</li>
 <li>2005 &ndash; The&nbsp;<a class="mw-redirect" title="Mars Exploration Rovers" href="https://en.wikipedia.org/wiki/Mars_Exploration_Rovers">Mars Exploration Rovers</a>&nbsp;perform the first astronomical observations ever taken from the surface of another planet, imaging an eclipse by Mars's moon&nbsp;<a title="Phobos (moon)" href="https://en.wikipedia.org/wiki/Phobos_(moon)">Phobos</a>.</li>
-</ul>
-<div class="thumb tright">&nbsp;</div>
-<ul>
+
 <li>2006 &ndash; The 26th General Assembly of the&nbsp;<a class="mw-redirect" title="IAU" href="https://en.wikipedia.org/wiki/IAU">IAU</a>&nbsp;voted in favor of a&nbsp;<a title="IAU definition of planet" href="https://en.wikipedia.org/wiki/IAU_definition_of_planet">revised definition of a planet</a>&nbsp;and officially declared&nbsp;<a title="Ceres (dwarf planet)" href="https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)">Ceres</a>, Pluto, and&nbsp;<a title="Eris (dwarf planet)" href="https://en.wikipedia.org/wiki/Eris_(dwarf_planet)">Eris</a>&nbsp;<a title="Dwarf planet" href="https://en.wikipedia.org/wiki/Dwarf_planet">dwarf planets</a>.</li>
 <li>2008 &ndash; The IAU declares&nbsp;<a class="mw-redirect" title="Makemake (dwarf planet)" href="https://en.wikipedia.org/wiki/Makemake_(dwarf_planet)">Makemake</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Haumea (dwarf planet)" href="https://en.wikipedia.org/wiki/Haumea_(dwarf_planet)">Haumea</a>&nbsp;dwarf planets.</li>
 <li>2011 &ndash; The&nbsp;<em><a title="Dawn (spacecraft)" href="https://en.wikipedia.org/wiki/Dawn_(spacecraft)">Dawn</a></em>&nbsp;spacecraft enters orbit around the large asteroid&nbsp;<a title="4 Vesta" href="https://en.wikipedia.org/wiki/4_Vesta">Vesta</a>&nbsp;making detailed measurements.</li>
